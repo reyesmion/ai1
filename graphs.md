@@ -1,6 +1,6 @@
 # Mermaid
 ```mermaid
-flowchart LD
+flowchart LR
   102((102))-->Apollo13((Apollo 13))
   Apollo13((Apollo 13))-->641((641))
   641((641))-->ForrestGump((Forrest Gump))
